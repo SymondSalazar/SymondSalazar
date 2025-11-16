@@ -6,7 +6,7 @@
 ```js
 const Symond_Salazar = {
 
-  'description': `I'm Symond Salazar, a first-year Computer Science student.
+  'description': `I'm Symond Salazar, a second-year Computer Science student.
                   I'm passionate about full-stack web development and always eager to learn more.`,
 
   'skills': ["JavaScript", "Python"],
